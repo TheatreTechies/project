@@ -29,4 +29,5 @@ The system should allow people to view the upcoming programme of events, select 
 
 ## All other upper circle
 - **Base**: No changes (Base)
+  
 There are concessionary rates for under 16’s and over 70’s, and large parties (bookings of more than 10 people); all concessions are not compound, the best concession is taken and applied.  The theatre also offers a loyalty card which entitles members to discount of 10% per ticket and the ability to reserve seats 1 week before the official release date.
