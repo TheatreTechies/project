@@ -26,8 +26,6 @@ The system should allow people to view the upcoming programme of events, select 
 - **Row C seats 9-24, 53-68**: +50% (Matinee) / +70% (Evening)
 - **Row A seats 33-56**: +75% (Matinee) / +100% (Evening)
 - **Row B seats 35-59**: +75% (Matinee) / +100% (Evening)
-
-## All other upper circle
-- **Base**: No changes (Base)
+- **All other upper circle**: No changes (Base)
   
 There are concessionary rates for under 16’s and over 70’s, and large parties (bookings of more than 10 people); all concessions are not compound, the best concession is taken and applied.  The theatre also offers a loyalty card which entitles members to discount of 10% per ticket and the ability to reserve seats 1 week before the official release date.
